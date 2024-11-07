@@ -32,8 +32,6 @@ Integrations:
 
 App Control: Use a mobile app or a centralized smart home hub to control all of your devices in one place.
 
-Centralized System: Set up a home automation hub.
-
 AI & Machine Learning: Integrate AI to learn your routines and habits over time, making the system more intuitive and predictive.
 
 Home Robot Assistants: Integrate robots that can perform tasks like cleaning, delivery, or even social interaction.
