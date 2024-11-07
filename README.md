@@ -6,9 +6,9 @@ Smart Thermostat: Automate your heating and cooling systems to adjust temperatur
 
 Air Quality Monitoring: Automate air purifiers or humidifiers based on air quality readings. 
 
-Window Blinds Automation: Use smart motors to adjust window blinds or shades based on sunlight or room temperature.
+Window Blinds Automation: Use smart motors to adjust window blinds or shades remotely.
 
-Smart Cameras: Integrate surveillance cameras with motion detection, night vision, and remote monitoring.
+Smart Cameras: Integrate surveillance cameras with motion detection and remote monitoring.
 
 Door Locks: Install smart locks that allow keyless entry, remote locking/unlocking, and even temporary access codes for guests.
 
