@@ -1,4 +1,4 @@
-Smart Lights: Use smart bulbs or switches to control lights remotely.
+Smart Lights: Use smart switches to control lights remotely.
 
 Motion Sensing: Lights automatically turn on/off based on movement in rooms or corridors.
 
