@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module smart_camera_tb;
+module tb_smart_camera;
 
     // Inputs
     reg motion_detected;
