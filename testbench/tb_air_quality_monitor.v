@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module air_quality_monitor_tb;
+module tb_air_quality_monitor;
 
     // Inputs
     reg [7:0] air_quality;
