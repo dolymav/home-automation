@@ -31,7 +31,7 @@ endmodule
 
 
 //Smart Thermostat: Automate your heating and cooling systems to adjust temperature based on time of day or weather forecasts.
-module smart_therm19ostat(
+module smart_thermostat(
        time_of_day, weather_forecast, clk, rst, heating, cooling);
 input wire [4:0] time_of_day; 
     input wire [7:0] weather_forecast; 
