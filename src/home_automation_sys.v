@@ -426,7 +426,7 @@ always @(posedge clk or posedge rst) begin
     if (rst) begin
         ai_decision <= IDLE; 
     end else begin
-        ai_decision <= sensor_data; // Replace with actual AI logic
+        ai_decision <= sensor_data; 
     end
 end
 
@@ -475,9 +475,9 @@ always @(posedge clk or posedge rst) begin
         access_granted <= DENIED;
     end else begin
         if (biometric_data == FACE_CODE || biometric_data == VOICE_CODE) begin
-            access_granted <= GRANTED; // Grant access if biometric data matches
+            access_granted <= GRANTED; 
         end else begin
-            access_granted <= DENIED; // Deny access otherwise
+            access_granted <= DENIED; 
         end
     end
 end
